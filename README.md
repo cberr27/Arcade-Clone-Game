@@ -11,6 +11,6 @@ Steps to play game:
 
 2. When in game check out the controls menu to see how the game works
 
-3. Project files available at google drive link: 
+3. Project files available at google drive link: https://drive.google.com/drive/folders/19VOvduwbb-GG0uotoVn9AP_02xkExdkA?usp=sharing
 
 4. Enjoy. 
