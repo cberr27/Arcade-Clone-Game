@@ -7,7 +7,7 @@ Game Summary:
 
 Steps to play game:
 
-1. Download game google drive link: 
+1. Download game google drive link: https://drive.google.com/file/d/1MITwY4fPO1rqNnkCa_0v0NUZ9HQE_P9W/view?usp=sharing
 
 2. When in game check out the controls menu to see how the game works
 
